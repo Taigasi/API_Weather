@@ -32,7 +32,7 @@ document.querySelector('#search').addEventListener('submit', async (event) => {
         showAlert(`
             Local não localizado...
 
-            <img src="/src/images/where.gif"/>
+            <img src="./src/images/where.gif"/>
         `)
     }
 });
